@@ -15,3 +15,5 @@ This project is to make know the use of excel in and how helful it is in keeping
      
 - SQL - Structured Query Language for Quering Data
 - GitHub for Portfolio Building
+
+  ### Data Cleaning and Preparation
