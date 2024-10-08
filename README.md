@@ -8,7 +8,7 @@ This project is to make know the use of excel in and how helful it is in keeping
 ### Data Sources
 
 ### Tools used
-- Mircosoft Excel (Download Here)(https://microsoft.com)
+- Mircosoft Excel(Download Here)(https://microsoft.com)
   1. For Data Cleaning
   2. For Analysis
   3. For  Visualization
